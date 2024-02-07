@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Lee</h1>
 <h3 align="center">Software Developer, based in Malaysia</h3>
 
-[![](https://visitcount.itsvg.in/api?id=choonjia&icon=5&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=brandonl-ee&icon=5&color=11)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🔭 I’m software engineer based in Malaysia<br>👯 I’m looking to collaborate on dev.jia.vu@gmail.com<br>🌱 I’m currently learning AI, app development and Advance Node Js.<br>💬 Visit me @ https://devjiavu.xyz<br>⚡ I love badminton and Muay Thai
@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=choonjia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=brandonl-ee&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
